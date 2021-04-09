@@ -182,3 +182,6 @@ body > main > section.clean-block.clean-hero > div > button{
 background-color: black !important;
   color: red;
 }
+body > main > section.clean-block.clean-info.dark > div > div.block-heading > h2{
+color: #ffffff;
+}
