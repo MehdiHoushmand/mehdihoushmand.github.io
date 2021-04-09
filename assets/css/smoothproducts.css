@@ -179,5 +179,5 @@ h1 {
 p {
 }
 body > main > section.clean-block.clean-hero > div > button{
-background: black;
+background: black !important;
 }
